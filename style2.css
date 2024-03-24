@@ -1,0 +1,44 @@
+*{
+color:white;
+background: #352f44;
+align:left;}
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+  text-align: left;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+section {
+  padding: 40px 0;
+}
+
+h1, h2 {
+  color:#B0B0B0;
+}
+
+/* Add more styling as needed */
